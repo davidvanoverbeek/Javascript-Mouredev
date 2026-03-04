@@ -1,4 +1,4 @@
-// VARIABLES
+//* VARIABLES
 
 // var
 var helloWorld = "¡Hola, JavaScript!"

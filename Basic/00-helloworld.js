@@ -1,4 +1,4 @@
-// HELLO WORLD EN JAVASCRIPT
+//* HELLO WORLD EN JAVASCRIPT
 
 // Esto es un comentario simple
 /* 

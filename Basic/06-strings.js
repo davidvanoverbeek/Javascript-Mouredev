@@ -1,4 +1,4 @@
-// STRINGS
+//* STRINGS
 
 //- Concatenacion
 let myName = "David"

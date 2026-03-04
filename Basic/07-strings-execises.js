@@ -1,3 +1,5 @@
+//* EJERCICIOS STRINGS
+
 // 1. Concatena dos cadenas de texto
 let nombre = "David"
 let edad = 23
