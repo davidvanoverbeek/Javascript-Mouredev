@@ -1,11 +1,10 @@
 # Hello JavaScript
 
-
 ## Curso para aprender el lenguaje de programación JavaScript desde cero y para principiantes
-
 
 ### Curso de fundamentos desde cero
 
+#### -BASIC LEVEL-
 
 * [00 - Hola mundo]                 | [Código]
 * [01 - Variables]                  | [Código]
