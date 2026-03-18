@@ -21,3 +21,7 @@
 * [12 - Maps]                       | [Código]
 * [13 - Ejercicios: Estructuras]    | [Ejercicios]
 * [14 - Bucles]                     | [Código]
+* [15 - Ejercicios: Bucles]         | [Ejercicios]
+* [16 - Funciones]                  | [Código]
+* [17 - Ejercicios: Funciones]      | [Ejercicios]
+* [18 - Objetos]                    | [Código]
