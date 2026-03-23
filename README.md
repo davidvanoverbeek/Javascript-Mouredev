@@ -30,3 +30,5 @@
 * [21 - Ejercicios: Desestructuracion y propagacion]    | [Ejercicios]
 * [22 - Clases]                                         | [Código]
 * [23 - EJercicios: Clases]                             | [Ejercicios]
+* [24 - Manejo de errores]                              | [Código]
+* [25 - Ejercicios: Manejo de errores]                  | [Ejercicios]
