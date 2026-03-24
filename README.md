@@ -40,4 +40,4 @@
 * [31 - Ejercicios: Exportacion e importacion de modulos]               | [Ejercicios]
 
 
-#### -MEDIUM LEVEL-
+#### -INTERMEDIATE LEVEL-
