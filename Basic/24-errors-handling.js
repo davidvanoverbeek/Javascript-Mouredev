@@ -33,7 +33,7 @@
 // Lanzar error
 function sumIntegers1(a, b){
     if (typeof a !== "number" || typeof b !== "number") {
-        throw new Error(sumIntegers(5, 10))("Esta operacion solo suma numeros")
+        throw new Error(sumIntegers1(5, 10))("Esta operacion solo suma numeros")
     }
 
     if (!Number.isInteger(a) || Number.isInteger(b)) {

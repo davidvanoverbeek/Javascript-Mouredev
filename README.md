@@ -32,3 +32,4 @@
 * [23 - EJercicios: Clases]                             | [Ejercicios]
 * [24 - Manejo de errores]                              | [Código]
 * [25 - Ejercicios: Manejo de errores]                  | [Ejercicios]
+* [26 - Metodos de consola]                             | [Código]
